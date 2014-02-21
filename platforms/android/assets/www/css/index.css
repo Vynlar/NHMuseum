@@ -1,0 +1,27 @@
+.banner {
+    position: relative;
+}
+
+h2 span { 
+    color: white; 
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    line-height: 2.2em;
+}
+
+.banner img {
+    max-width: 100%;
+}
+
+h2 {
+    position: absolute;
+    top: 115px;
+    left: 0;
+    width: 100%;
+}
+
+h2 span.spacer {
+    padding: 5px;
+    background: rgba(0,0,0,0);
+}
